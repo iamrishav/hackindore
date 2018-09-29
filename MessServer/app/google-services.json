@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "556024938427",
+    "firebase_url": "https://drinkapp-b918a.firebaseio.com",
+    "project_id": "drinkapp-b918a",
+    "storage_bucket": "drinkapp-b918a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556024938427:android:0dd9212afeec8b14",
+        "android_client_info": {
+          "package_name": "com.example.shailendra.drinkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556024938427-dqesdjjcitshc3tu6bsdj84bh4t42nqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shailendra.drinkapp",
+            "certificate_hash": "da1474f06d72a815faa68c4f5ba5bdef8b645ced"
+          }
+        },
+        {
+          "client_id": "556024938427-ts0m8sl0u87f1q2r0p15a2k693toopb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJHT3j1Y1ZlhfRCGSqDI5QFAJ9TQljxw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556024938427-ts0m8sl0u87f1q2r0p15a2k693toopb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556024938427:android:e08c475cb83db1ce",
+        "android_client_info": {
+          "package_name": "com.example.shailendraweb.drinkshopserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556024938427-sbrhngoqmt8kq3keqcb3en08orfntdc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shailendraweb.drinkshopserver",
+            "certificate_hash": "c1abe16278fef607745ee3262d525a5c4dc1b1e7"
+          }
+        },
+        {
+          "client_id": "556024938427-ts0m8sl0u87f1q2r0p15a2k693toopb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJHT3j1Y1ZlhfRCGSqDI5QFAJ9TQljxw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556024938427-ts0m8sl0u87f1q2r0p15a2k693toopb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
